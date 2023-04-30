@@ -73,18 +73,7 @@
   
 <!-- End here -->
 
-<!-- Blog Post with dynamically update using GitHub Workflow -->
 
-<!-- Start here -->
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-  
-➡️ [more blog posts...]()
-
-<!-- End here -->
 
 
 <!-- YouTube Videos with dynamically update using GitHub Workflow -->
