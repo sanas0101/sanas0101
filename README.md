@@ -32,8 +32,8 @@
 <a href="https://twitter.com/sanasspace">
 <img align="left" alt="imaaqsanauibali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
    
-Medium
-<a href ="#">
+
+<a href ="https://medium.com/@sanashaikhar30">
 <img align="left" alt="sana | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
  
 
