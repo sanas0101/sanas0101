@@ -12,7 +12,7 @@
 
 <!-- End here -->
  
-- 🔭 &nbsp; ⇢  &nbsp; Self-taught Front-End passionate developer from India 🇮🇳
+<!-- - 🔭 &nbsp; ⇢  &nbsp; Self-taught Front-End passionate developer from India 🇮🇳 -->
 - 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript,& building fun experiments on type-level 
 - 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn more about JavaScript 
 - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://twitter.com/sanasspace)
