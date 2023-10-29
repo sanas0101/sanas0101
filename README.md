@@ -27,6 +27,9 @@
 
 <!-- Start Here   -->
 ###  Connect with me 
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/sana-shaikh-0893391ba/">
+<img align="left" alt=" Linkedin | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Connect with me on LinkedIn" /></a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/sanasspace">
@@ -35,16 +38,22 @@
 <!-- Medium-->
 <a href ="">
 <img align="left" alt="Medium | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
+
+<!-- Instagram-->
+<a href="https://www.instagram.com/snaa.exe">
+<img align="left" alt="Instagram|Instagram " width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Follow me on Instagram" /></a>
+
+<!-- Hashnode-->
+<a href="[https://www.instagram.com/snaa.exe](https://hashnode.com/@snaaaa)">
+<img align="left" alt="Hashonde|Hashnode " width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Follow me on Hashnode" /></a>
  
 
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/sana-shaikh-0893391ba/">
-<img align="left" alt=" Linkedin | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Connect with me on LinkedIn" /></a>
 
 
-<!-- Community (TechBrewvers) -->
+
+<!-- Community (TechBrewvers) 
 <a href="https://techbrewers.org/">
-<img align="left" alt=" sana | LinkedIn" width="30px" src="[https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg](https://techbrewers.org/index.html)" title="Connect with me on LinkedIn" /></a>
+<img align="left" alt=" sana | LinkedIn" width="30px" src="[https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg](https://techbrewers.org/index.html)" title="Connect with me on LinkedIn" /></a> -->
 
 
 <br>
