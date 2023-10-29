@@ -30,20 +30,21 @@
 
 <!-- Twitter -->
 <a href="https://twitter.com/sanasspace">
-<img align="left" alt="imaaqsanauibali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
+<img align="left" alt="Twitter" | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" title="Follow me on Twitter" /></a>
    
-
-<a href ="https://medium.com/@sanashaikhar30">
-<img align="left" alt="sana | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
+<!-- Medium-->
+<a href ="">
+<img align="left" alt="Medium | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
  
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/sana-shaikh-0893391ba/">
-<img align="left" alt=" sana | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
+<img align="left" alt=" Linkedin | LinkedIn" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Connect with me on LinkedIn" /></a>
+
 
 <!-- Community (TechBrewvers) -->
 <a href="https://techbrewers.org/">
-<img align="left" alt=" sana | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>
+<img align="left" alt=" sana | LinkedIn" width="30px" src="[https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg](https://techbrewers.org/index.html)" title="Connect with me on LinkedIn" /></a>
 
 
 <br>
