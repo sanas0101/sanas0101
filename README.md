@@ -149,14 +149,7 @@
 <!-- End here -->
 
 <!-- Cool Wave content Start here  -->
-
-![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
+<!--![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
 
 <!-- end here -->
 
-<!-- Spotify Playing start here -->
-<!-- ### Spotify Playing 🎧 
-
-[![Spotify](https://novatorem-imaaquibali.vercel.app/api/spotify)](https://open.spotify.com/user/31dr5oul5dtf6lonunqs6yvewrlu)  -->
-
-<!-- End here -->
