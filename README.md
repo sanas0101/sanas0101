@@ -45,7 +45,7 @@
 
 <!-- Hashnode-->
 <a href="[https://www.instagram.com/snaa.exe](https://hashnode.com/@snaaaa)">
-<img align="left" alt="Hashonde|Hashnode " width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Follow me on Hashnode" /></a>
+<img align="left" alt="Hashonde|Hashnode " width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="Read my articles on Hashnode" /></a>
  
 
 
